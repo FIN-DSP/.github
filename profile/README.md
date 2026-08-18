@@ -1,6 +1,6 @@
-# FINDSP
+# FIN-DSP
 
-FINDSP is the Linux audio and software development front for in-house systems running on CTP-EOS Linux. [CTP-EOS](https://www.linkedin.com/) is our primary platform for creating, experimenting with, and distributing audio software that spans open collaboration to private and commercial releases. CTP-EOS isn't just Linux—"CTP-EOS™ is the Conscious OS!" FINDSP is the audio gateway to the C-domain.
+FIN-DSP is the Linux audio and software development front for in-house systems running on CTP-EOS Linux. [CTP-EOS](https://www.linkedin.com/) is our primary platform for creating, experimenting with, and distributing audio software that spans open collaboration to private and commercial releases. CTP-EOS isn't just Linux—"CTP-EOS™ is the Conscious OS!" FINDSP is the audio gateway to the C-domain.
 
 ---
 
@@ -9,16 +9,16 @@ FINDSP is the Linux audio and software development front for in-house systems ru
 We are focused on truly mind-bending and mind-warping audio applications.
 
 - Our software is designed to affect the consciousness of the artists using it, their audiences downstream, and everyone participating in the CTP / CTP-EOS ecosystem.
-- FINDSP is plugged into the [CTPSci Sciences](https://www.linkedin.com/) the post-quantum / post-physics sciences of consciousness from the C-domain, and our work reflects that connection.
+- FIN-DSP is plugged into the [CTPSci Sciences](https://www.linkedin.com/) the post-quantum / post-physics sciences of consciousness from the C-domain, and our work reflects that connection.
 - Experimentation and prototyping remain central, but all projects are aligned with system-level audio innovation and the broader CTP-EOS platform.
 - Note: all FINDSP software is originally developed on Linux.
-- Future FINDSP releases will be available on most major platforms, though our brand identity is Linux-centric.
+- Future FIN-DSP releases will be available on most major platforms, though our brand identity is Linux-centric.
 
 ---
 
 ## Musical Context & Creative Alignment
 
-FINDSP works at the intersection of cutting-edge music, experimental sound, and cross-domain consciousness. Our tools and projects are tailored for creators exploring:
+FIN-DSP works at the intersection of cutting-edge music, experimental sound, and cross-domain consciousness. Our tools and projects are tailored for creators exploring:
 
 - [Algorave](https://en.wikipedia.org/wiki/Algorave) & generative electronic
 - [Ambient](https://en.wikipedia.org/wiki/Ambient_music) & [Dark Ambient](https://en.wikipedia.org/wiki/Dark_ambient) textures
@@ -53,7 +53,7 @@ Do you need clear, professional, AI-assisted documentation for complex technical
 
 So do we! All the time!
 
-FINDSP documentation, specifications, and public explainers are authored and structured using Gamma, an AI-powered documentation and presentation platform that excels at turning dense material into readable, well-organized outputs.
+FIN-DSP documentation, specifications, and public explainers are authored and structured using Gamma, an AI-powered documentation and presentation platform that excels at turning dense material into readable, well-organized outputs.
 
 ### 👉 Join Gamma (Free or Paid)
 
@@ -80,11 +80,11 @@ Our releases span multiple models:
 - Freeware / donationware
 - Full commercial audio software
 
-While fully supportive of open-source collaboration via the FINDSP Audio Group (FINDSPAG), FINDSP retains internal control over its own internal select projects, ensuring alignment with CTP-EOS Linux systems, where applicable and especially where our own internally developed software and licensing issues are concerned.
+While fully supportive of open-source collaboration via the FIN-DSP Audio Group (FINDSPAG), FINDSP retains internal control over its own internal select projects, ensuring alignment with CTP-EOS Linux systems, where applicable and especially where our own internally developed software and licensing issues are concerned.
 
 ---
 
-## FINDSP (the Open-Source Community Division of FINDSP)
+## FIN-DSP organization (the Open-Source Community Division of FINDSP)
 
 [FIN-DSP org (FIN-DSP)](https://github.com/FIN-DSP) is a federation of developers, engineers, and audio innovators collaborating under the CTP umbrella. Think of it as a hub where contributions, projects, and tools are organized, listed, and easily discoverable.
 
