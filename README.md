@@ -1,5 +1,3 @@
-Absolutely. For `FIN-DSP/.github`, I'd make the README a **clean organization welcome page**, not a copy of the `findsp` profile README. It should explain what FIN-DSP is, what the organization builds, the relationship to CTP-EOS, and where contributors should go.
-
 # FIN-DSP
 
 ## The Audio & DSP Engineering Organization
