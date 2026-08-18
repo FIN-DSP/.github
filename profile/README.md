@@ -84,9 +84,9 @@ While fully supportive of open-source collaboration via the FINDSP Audio Group (
 
 ---
 
-## FINDSP Audio Group (FINDSPAG)
+## FINDSP (the Open-Source Community Division of FINDSP)
 
-[FINDSP Audio Group (FINDSPAG)](https://github.com/findsp/findspag) is a federation of developers, engineers, and audio innovators collaborating under the CTP umbrella. Think of it as a hub where contributions, projects, and tools are organized, listed, and easily discoverable.
+[FIN-DSP org (FIN-DSP)](https://github.com/FIN-DSP) is a federation of developers, engineers, and audio innovators collaborating under the CTP umbrella. Think of it as a hub where contributions, projects, and tools are organized, listed, and easily discoverable.
 
 We focus on audio technology, music software, and hardware integration, building everything from chiptune sequencers and modular synth editors to legacy sampler modernization tools.
 
@@ -108,7 +108,7 @@ Designed to expand perception, influence consciousness, and explore cross-domain
 
 ### About the Project
 
-Revitalized for 2026, [Tutka](https://github.com/findsp/tutka) is a lightweight, MIDI-only tracker sequencer designed for GNU/Linux (Debian 13+ tested, Mac OS X source available). With full support for Tutka and OctaMED song formats, plus standard MIDI, it seamlessly integrates with hardware synths or software via ALSA/JACK/PipeWire. This release adds a ready-to-run binary, modern Qt5 compatibility, and streamlined build paths, making it the fastest way to sequence retro-inspired music on modern systems.
+Revitalized for 2026, [Tutka](https://github.com/fin-dsp/tutka) is a lightweight, MIDI-only tracker sequencer designed for GNU/Linux (Debian 13+ tested, Mac OS X source available). With full support for Tutka and OctaMED song formats, plus standard MIDI, it seamlessly integrates with hardware synths or software via ALSA/JACK/PipeWire. This release adds a ready-to-run binary, modern Qt5 compatibility, and streamlined build paths, making it the fastest way to sequence retro-inspired music on modern systems.
 
 ## PlayerPRO Linux Port
 
